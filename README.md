@@ -1,2 +1,2 @@
-# cdr-registry.github.io
+# cdr-register.github.io
 Base website repository
